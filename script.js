@@ -184,7 +184,7 @@ const atomicModels = [
         image: 'images/Erwin_Schrödinger.jpg',
         bio: 'Físico austríaco galardonado con el Premio Nobel de Física en 1933. Desarrolló la ecuación fundamental de la mecánica cuántica ondulatoria.',
         overview: 'Schrödinger abandonó la idea de órbitas fijas. Basándose en la dualidad onda-partícula de de Broglie y el principio de incertidumbre de Heisenberg, trató al electrón como una **onda de materia**. Definió los **orbitales** como regiones tridimensionales de alta probabilidad para encontrar al electrón.',
-        quote: 'Lo que observamos no es la naturaleza en sí misma, sino la naturaleza expuesta a nuestro método de interrogación.',
+        quote: 'La tarea no consiste en ver lo que nadie ha visto todavía, sino en pensar lo que nadie ha pensado aún sobre lo que todo el mundo ve.',
         postulates: [
             'Los electrones no siguen trayectorias fijas, sino que se comportan como ondas electromagnéticas estacionarias.',
             'No se puede determinar la posición exacta de un electrón, sino la **probabilidad** de su ubicación.',
